@@ -6,7 +6,7 @@ For local:
 ```export FOOD2FORK_KEY="7c31713c86070bba24d43ecacb5b05a4"```
 
 For heroku deployment: Config enviromental variable: 
-```heroku config:set FOOD2FORK_KEY="7c31713c86070bba24d43ecacb5b05a4"```
+```heroku config:set FOOD2FORK_KEY="7c31713c86070bba24d43ecacb5b05a4 -a recipefinder-cw```
 
 Heroku link: https://recipefinder-cw.herokuapp.com/ 
 
