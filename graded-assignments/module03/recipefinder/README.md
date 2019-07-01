@@ -1,6 +1,6 @@
 ## Assignment for Module #3: Recipe Finder
 
-**IMPORTANT**
+**IMPORTANT CONFIGURATION**
 
 For local: 
 ```export FOOD2FORK_KEY="7c31713c86070bba24d43ecacb5b05a4"```
