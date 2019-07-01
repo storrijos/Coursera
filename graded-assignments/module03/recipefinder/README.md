@@ -8,6 +8,7 @@ For local:
 For heroku deployment: Config enviromental variable: 
 ```heroku config:set FOOD2FORK_KEY="7c31713c86070bba24d43ecacb5b05a4"```
 
+Heroku link: https://recipefinder-cw.herokuapp.com/ 
 
 The overall goal of this assignment is to implement a Rails application using model,
 view, and controller classes.
